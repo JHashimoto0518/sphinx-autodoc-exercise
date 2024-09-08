@@ -5,3 +5,4 @@ sphinx-autodoc-exercise
    :maxdepth: 4
 
    main
+   main2
